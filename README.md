@@ -1,4 +1,4 @@
-# Excel-sales-Dashboard
+# 📊Excel-sales-Dashboard
 ## 📌 Overview
 
 This Excel dashboard provides an interactive analysis of sales data using Pivot Tables, charts, and slicers. It helps users quickly understand sales trends, performance by region, and product sales distribution.
