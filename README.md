@@ -1,6 +1,6 @@
 # 📊Excel-sales-Dashboard
 
-![]()
+![](https://github.com/Premjith22/Excel-sales-Dashboard/blob/main/dashboard%20image.png)
 
 ## 📌 Overview
 
